@@ -1,7 +1,13 @@
 Homebrew Formula for Rust TLS Server
 
+> brew uninstall rts
+> 
+> brew untap bohdaq/rust-tls-server
+> 
+> brew update
+> 
 > brew tap bohdaq/rust-tls-server
->
-> brew install rts
+> 
+> brew install bohdaq/rust-tls-server/rts --HEAD
 >
 > rts
