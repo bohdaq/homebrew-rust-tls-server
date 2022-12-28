@@ -3,7 +3,6 @@ class Rts < Formula
   homepage "https://github.com/bohdaq/rust-tls-server/"
   url "https://github.com/bohdaq/rust-tls-server/archive/refs/tags/8.0.6.tar.gz"
   sha256 "14e1a6de1c3fc43dd6683107e98590a6df18333181dc272454dd9ca0404317c9"
-  head "https://github.com/bohdaq/rust-tls-server.git"
   license "MIT"
 
   depends_on "rust" => :build
