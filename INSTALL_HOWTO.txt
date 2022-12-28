@@ -1,9 +1,0 @@
-Homebrew Formula for Rust TLS Server
-
-Install Homebrew https://brew.sh/
-
-> brew tap bohdaq/rust-tls-server
->
-> brew install rts
->
-> rts
