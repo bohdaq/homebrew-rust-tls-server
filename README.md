@@ -11,3 +11,5 @@ Homebrew Formula for Rust TLS Server
 > brew install bohdaq/rust-tls-server/rts --HEAD
 >
 > rts
+
+Press Ctrl + C (or CMD + C) to stop server.
